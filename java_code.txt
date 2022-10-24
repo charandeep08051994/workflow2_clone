@@ -1,1 +1,4 @@
 echo "Good Morning"
+public (
+hi this is java code
+)
